@@ -1,5 +1,5 @@
 # model-calibration
-This repo contain the code and data used to generate the results in our paper [Investigating Deep Learning Model Calibration for Classification Problems in Mechanics]()
+This repo contain the code and data used to generate the results in our paper [Investigating Deep Learning Model Calibration for Classification Problems in Mechanics](Investigating Deep Learning Model Calibration for Classification Problems in Mechanics)
 
 - To retrain ML models used in the manuscript run `model-training.ipynb`
 - To apply Temperature Scaling on Neural Network predictions run `temp-scaling.ipynb`
